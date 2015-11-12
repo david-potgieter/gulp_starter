@@ -1,0 +1,31 @@
+{
+  "name": "saxo_nav_test",
+  "description": "Saxo nav test layout",
+  "main": "gulpfile.js",
+  "authors": [
+    "DavidPotgieter"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Content/js/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "susy": "~2.2.6",
+    "animate.css": "https://github.com/daneden/animate.css.git#~3.4.0",
+    "masonry": "~3.3.2",
+    "modernizr": "~3.1.0",
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+    "angular-animate": "~1.4.7"
+  }
+}

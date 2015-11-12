@@ -1,0 +1,10 @@
+.nav {
+  width: 257.89474%;
+  height: 200px;
+  background: green; }
+
+@media (min-width: 30em) {
+  .example {
+    width: 35.89744%;
+    float: left;
+    margin-right: 2.5641%; } }

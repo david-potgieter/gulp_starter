@@ -1,0 +1,9 @@
+.nav{
+    width: span(10);
+    height: 200px;
+    background: green;
+}
+
+@include susy-breakpoint(30em, 8) {
+  .example { @include span(3); }
+}
