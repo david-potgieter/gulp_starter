@@ -1,6 +1,6 @@
 {
-  "name": "saxo_nav_test",
-  "description": "Saxo nav test layout",
+  "name": "project",
+  "description": "project desc",
   "main": "gulpfile.js",
   "authors": [
     "DavidPotgieter"
